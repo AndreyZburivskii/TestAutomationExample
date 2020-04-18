@@ -1,0 +1,18 @@
+[0416/155224.750:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0416/155224.750:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0416/155224.750:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0416/155224.750:ERROR:exception_snapshot_win.cc(98)] thread ID 3660 not found in process
+[0418/105003.929:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0418/105003.929:ERROR:exception_snapshot_win.cc(98)] thread ID 13668 not found in process
+[0418/105003.929:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0418/125207.207:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0418/125207.207:ERROR:exception_snapshot_win.cc(98)] thread ID 12600 not found in process
+[0418/125207.207:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0423/085329.152:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0424/085328.484:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0425/085327.781:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0430/122458.134:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0501/122457.442:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0829/094903.069:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0829/094903.100:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0829/094903.101:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
